@@ -1,0 +1,3 @@
+# node modules are ignored by default
+dist/!*.js
+
